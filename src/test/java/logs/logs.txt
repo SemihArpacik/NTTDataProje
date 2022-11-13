@@ -1,0 +1,38 @@
+2022-11-13 13:55:15 INFO  StepDefinitions:38 - url e gidildi
+2022-11-13 13:55:16 INFO  StepDefinitions:47 - anasayfaya giriş yaptığı doğrulandı
+2022-11-13 13:55:19 INFO  StepDefinitions:97 - firstName dolduruldu
+2022-11-13 13:55:19 INFO  StepDefinitions:99 - lastName  dolduruldu
+2022-11-13 13:55:19 INFO  StepDefinitions:101 - eMail  dolduruldu
+2022-11-13 13:55:22 INFO  StepDefinitions:103 - male butonu tıklandı
+2022-11-13 13:55:22 INFO  StepDefinitions:105 - mobil  dolduruldu
+2022-11-13 13:55:25 INFO  StepDefinitions:108 - tarih dropdownu tıklandı
+2022-11-13 13:55:25 INFO  StepDefinitions:111 - ay seçildi 
+2022-11-13 13:55:25 INFO  StepDefinitions:114 - yıl seçildi 
+2022-11-13 13:55:25 INFO  StepDefinitions:116 - gun seçildi 
+2022-11-13 13:55:28 INFO  StepDefinitions:118 - music butonu tıklandı
+2022-11-13 13:55:28 INFO  StepDefinitions:120 - dosya yolu belirlendi 
+2022-11-13 13:55:28 INFO  StepDefinitions:122 - dosyaseç butonuna tıklandı
+2022-11-13 13:55:28 INFO  StepDefinitions:124 - adres bilgisi dolduruldu
+2022-11-13 13:55:28 INFO  StepDefinitions:128 - submit butonuna tıklandı
+2022-11-13 13:55:28 INFO  StepDefinitions:137 - pop-up bekletildi
+2022-11-13 13:55:29 INFO  StepDefinitions:139 - pop-up ekran görüntüsü alındı
+2022-11-13 13:55:34 INFO  StepDefinitions:153 - close butonuna tıklandı
+2022-11-13 14:00:31 INFO  StepDefinitions:38 - url e gidildi
+2022-11-13 14:00:31 INFO  StepDefinitions:47 - anasayfaya giriş yaptığı doğrulandı
+2022-11-13 14:00:35 INFO  StepDefinitions:97 - firstName dolduruldu
+2022-11-13 14:00:35 INFO  StepDefinitions:99 - lastName  dolduruldu
+2022-11-13 14:00:35 INFO  StepDefinitions:101 - eMail  dolduruldu
+2022-11-13 14:00:38 INFO  StepDefinitions:103 - male butonu tıklandı
+2022-11-13 14:00:38 INFO  StepDefinitions:105 - mobil  dolduruldu
+2022-11-13 14:00:40 INFO  StepDefinitions:108 - tarih dropdownu tıklandı
+2022-11-13 14:00:40 INFO  StepDefinitions:111 - ay seçildi 
+2022-11-13 14:00:40 INFO  StepDefinitions:114 - yıl seçildi 
+2022-11-13 14:00:40 INFO  StepDefinitions:116 - gun seçildi 
+2022-11-13 14:00:43 INFO  StepDefinitions:118 - music butonu tıklandı
+2022-11-13 14:00:43 INFO  StepDefinitions:120 - dosya yolu belirlendi 
+2022-11-13 14:00:43 INFO  StepDefinitions:122 - dosyaseç butonuna tıklandı
+2022-11-13 14:00:44 INFO  StepDefinitions:124 - adres bilgisi dolduruldu
+2022-11-13 14:00:44 INFO  StepDefinitions:128 - submit butonuna tıklandı
+2022-11-13 14:00:44 INFO  StepDefinitions:138 - pop-up bekletildi
+2022-11-13 14:00:46 INFO  StepDefinitions:145 - pop-up ekran görüntüsü alındı
+2022-11-13 14:00:49 INFO  StepDefinitions:153 - close butonuna tıklandı
